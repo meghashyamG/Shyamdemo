@@ -3,7 +3,7 @@ package git;
 public class Demo1 {
 public static void main(String[] args) {
 	
-	System.out.println("hello ");
-	System.out.println("hiiiii");
+	System.out.println("shyams git");
+
 }
 }
